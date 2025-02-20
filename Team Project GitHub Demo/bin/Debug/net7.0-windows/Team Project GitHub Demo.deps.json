@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Team Project GitHub Demo/1.0.0": {
+        "runtime": {
+          "Team Project GitHub Demo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Team Project GitHub Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

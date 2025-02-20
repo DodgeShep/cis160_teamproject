@@ -1,0 +1,14 @@
+C:\My GitHub Repos\cis160_teamproject\Team Project GitHub Demo\bin\Debug\net7.0-windows\Team Project GitHub Demo.exe
+C:\My GitHub Repos\cis160_teamproject\Team Project GitHub Demo\bin\Debug\net7.0-windows\Team Project GitHub Demo.deps.json
+C:\My GitHub Repos\cis160_teamproject\Team Project GitHub Demo\bin\Debug\net7.0-windows\Team Project GitHub Demo.runtimeconfig.json
+C:\My GitHub Repos\cis160_teamproject\Team Project GitHub Demo\bin\Debug\net7.0-windows\Team Project GitHub Demo.dll
+C:\My GitHub Repos\cis160_teamproject\Team Project GitHub Demo\bin\Debug\net7.0-windows\Team Project GitHub Demo.pdb
+C:\My GitHub Repos\cis160_teamproject\Team Project GitHub Demo\obj\Debug\net7.0-windows\Team Project GitHub Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\My GitHub Repos\cis160_teamproject\Team Project GitHub Demo\obj\Debug\net7.0-windows\Team Project GitHub Demo.AssemblyInfoInputs.cache
+C:\My GitHub Repos\cis160_teamproject\Team Project GitHub Demo\obj\Debug\net7.0-windows\Team Project GitHub Demo.AssemblyInfo.cs
+C:\My GitHub Repos\cis160_teamproject\Team Project GitHub Demo\obj\Debug\net7.0-windows\Team Project GitHub Demo.csproj.CoreCompileInputs.cache
+C:\My GitHub Repos\cis160_teamproject\Team Project GitHub Demo\obj\Debug\net7.0-windows\Team Project GitHub Demo.dll
+C:\My GitHub Repos\cis160_teamproject\Team Project GitHub Demo\obj\Debug\net7.0-windows\refint\Team Project GitHub Demo.dll
+C:\My GitHub Repos\cis160_teamproject\Team Project GitHub Demo\obj\Debug\net7.0-windows\Team Project GitHub Demo.pdb
+C:\My GitHub Repos\cis160_teamproject\Team Project GitHub Demo\obj\Debug\net7.0-windows\Team Project GitHub Demo.genruntimeconfig.cache
+C:\My GitHub Repos\cis160_teamproject\Team Project GitHub Demo\obj\Debug\net7.0-windows\ref\Team Project GitHub Demo.dll

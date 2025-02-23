@@ -1,0 +1,17 @@
+C:\My GitHub Repos\cis160_teamproject\WinFormsApp_Dodge\WinFormsApp_Dodge\bin\Debug\net8.0-windows\WinFormsApp_Dodge.exe
+C:\My GitHub Repos\cis160_teamproject\WinFormsApp_Dodge\WinFormsApp_Dodge\bin\Debug\net8.0-windows\WinFormsApp_Dodge.deps.json
+C:\My GitHub Repos\cis160_teamproject\WinFormsApp_Dodge\WinFormsApp_Dodge\bin\Debug\net8.0-windows\WinFormsApp_Dodge.runtimeconfig.json
+C:\My GitHub Repos\cis160_teamproject\WinFormsApp_Dodge\WinFormsApp_Dodge\bin\Debug\net8.0-windows\WinFormsApp_Dodge.dll
+C:\My GitHub Repos\cis160_teamproject\WinFormsApp_Dodge\WinFormsApp_Dodge\bin\Debug\net8.0-windows\WinFormsApp_Dodge.pdb
+C:\My GitHub Repos\cis160_teamproject\WinFormsApp_Dodge\WinFormsApp_Dodge\obj\Debug\net8.0-windows\WinFormsApp_Dodge.Form1.resources
+C:\My GitHub Repos\cis160_teamproject\WinFormsApp_Dodge\WinFormsApp_Dodge\obj\Debug\net8.0-windows\WinFormsApp_Dodge.csproj.GenerateResource.cache
+C:\My GitHub Repos\cis160_teamproject\WinFormsApp_Dodge\WinFormsApp_Dodge\obj\Debug\net8.0-windows\WinFormsApp_Dodge.GeneratedMSBuildEditorConfig.editorconfig
+C:\My GitHub Repos\cis160_teamproject\WinFormsApp_Dodge\WinFormsApp_Dodge\obj\Debug\net8.0-windows\WinFormsApp_Dodge.AssemblyInfoInputs.cache
+C:\My GitHub Repos\cis160_teamproject\WinFormsApp_Dodge\WinFormsApp_Dodge\obj\Debug\net8.0-windows\WinFormsApp_Dodge.AssemblyInfo.cs
+C:\My GitHub Repos\cis160_teamproject\WinFormsApp_Dodge\WinFormsApp_Dodge\obj\Debug\net8.0-windows\WinFormsApp_Dodge.csproj.CoreCompileInputs.cache
+C:\My GitHub Repos\cis160_teamproject\WinFormsApp_Dodge\WinFormsApp_Dodge\obj\Debug\net8.0-windows\WinFormsApp_Dodge.sourcelink.json
+C:\My GitHub Repos\cis160_teamproject\WinFormsApp_Dodge\WinFormsApp_Dodge\obj\Debug\net8.0-windows\WinFormsApp_Dodge.dll
+C:\My GitHub Repos\cis160_teamproject\WinFormsApp_Dodge\WinFormsApp_Dodge\obj\Debug\net8.0-windows\refint\WinFormsApp_Dodge.dll
+C:\My GitHub Repos\cis160_teamproject\WinFormsApp_Dodge\WinFormsApp_Dodge\obj\Debug\net8.0-windows\WinFormsApp_Dodge.pdb
+C:\My GitHub Repos\cis160_teamproject\WinFormsApp_Dodge\WinFormsApp_Dodge\obj\Debug\net8.0-windows\WinFormsApp_Dodge.genruntimeconfig.cache
+C:\My GitHub Repos\cis160_teamproject\WinFormsApp_Dodge\WinFormsApp_Dodge\obj\Debug\net8.0-windows\ref\WinFormsApp_Dodge.dll

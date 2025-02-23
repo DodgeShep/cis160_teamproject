@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WinFormsApp_Dodge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88f0143abf5fd1c6c296b80d3696e474aac344c9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8c7e40e08340b22f100834f9ffafcb1d62ebf21")]
 [assembly: System.Reflection.AssemblyProductAttribute("WinFormsApp_Dodge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WinFormsApp_Dodge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

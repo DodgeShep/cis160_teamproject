@@ -37,7 +37,7 @@
             button1.Name = "button1";
             button1.Size = new Size(269, 47);
             button1.TabIndex = 0;
-            button1.Text = "button1";
+            button1.Text = "Example";
             button1.UseVisualStyleBackColor = true;
             // 
             // Form1
